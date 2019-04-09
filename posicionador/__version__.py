@@ -1,0 +1,12 @@
+"""Version details for posicionador"""
+
+__title__ = "posicionador"
+__description__ = ""
+__url__ = "https://github.com/rodrigoelemesmo/posicionador"
+__version__ = "0.0.1"
+__author__ = "Rodrigo Maluf"
+__author_email__ = "rodrigo1793@gmail.com"
+__license__ = ""
+__maintainer__ = "Rodrigo Maluf"
+__maintainer_email__ = "rodrigo1793@gmail.com"
+__keywords__ = ""
